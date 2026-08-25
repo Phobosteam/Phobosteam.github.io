@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Allow: /img/
+Allow: /fonts/
 
 Sitemap: https://phobosteam.github.io/sitemap.xml
